@@ -22,7 +22,7 @@ Alerts Notifier - All the alerts are prioritized by the user. High priority aler
 
 SOS Button - This is present on the driver’s app triggers an alert to the supervisor with the current location of the truck.
 
-
+![flowchart Fleet Monitoring](https://user-images.githubusercontent.com/52173352/127612274-d3b6a8e2-0308-4d80-ae09-90dafda16082.jpg)
 ![IMG_20210729_124919](https://user-images.githubusercontent.com/52173352/127611565-3f6e79c8-5514-42c1-b398-5445a9b466fc.jpg)
 ![IMG_20210729_125033](https://user-images.githubusercontent.com/52173352/127611626-110a66ca-83c8-400d-ac97-bf3497d5b967.jpg)
 ![IMG_20210729_125037](https://user-images.githubusercontent.com/52173352/127611645-59e39dee-eccf-4c13-8239-2142fa3f48a0.jpg)
