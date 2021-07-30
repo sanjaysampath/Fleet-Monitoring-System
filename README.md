@@ -24,7 +24,5 @@ SOS Button - This is present on the driver’s app triggers an alert to the supe
 
 
 ![IMG_20210729_124919](https://user-images.githubusercontent.com/52173352/127611565-3f6e79c8-5514-42c1-b398-5445a9b466fc.jpg)
-![IMG_20210729_125017](https://user-images.githubusercontent.com/52173352/127611606-ada3b9f1-b08d-4296-8e06-e9ba845790c0.jpg)
-![IMG_20210729_125028](https://user-images.githubusercontent.com/52173352/127611617-9d2ebf48-a6ff-4c9e-82a0-6c4f6ff6065a.jpg)
 ![IMG_20210729_125033](https://user-images.githubusercontent.com/52173352/127611626-110a66ca-83c8-400d-ac97-bf3497d5b967.jpg)
 ![IMG_20210729_125037](https://user-images.githubusercontent.com/52173352/127611645-59e39dee-eccf-4c13-8239-2142fa3f48a0.jpg)
