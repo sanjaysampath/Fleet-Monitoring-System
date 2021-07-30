@@ -7,7 +7,9 @@ The competition within the transportation industry based on promptness, coherenc
 
 
 Features of fleet monitoring include - 
+
 Fuel Indication - The amount of fuel filled at each station and the real-time fuel consumed is displayed on the dashboard.
+
 Temperature Indication - Perishable items, Medicines, etc have to be maintained at a constant temperature to avoid it from getting ruined. Thus, Monitoring the temperature at all times becomes essential.
 
 GPS Tracking - Knowing the real-time location of the truck, the route the truck is taking to reach the destination becomes important and our dashboard displays the real-time location with the current speed. It also provides a geo-fencing option to raise alerts when the driver crosses a boundary.
@@ -15,6 +17,7 @@ GPS Tracking - Knowing the real-time location of the truck, the route the truck 
 Driver Drowsiness Alerts - Due to excessive work pressure and inadequate rest the chances of the driver drowsing in the truck is high. Our drowsiness detector monitors the drowsy levels of the drivers in real-time and triggers an alarm if the driver is falling drowsy and also sends a high priority alert to the supervisor.
 
 Dashboard - All the parameters like weight, temperature, fuel, location, speed of the truck is displayed on the dashboard giving the user a bird's eye view of the entire truck. All the parameters can be modified according to that particular trip to suit the delivery needs.
+
 Alerts Notifier - All the alerts are prioritized by the user. High priority alerts like drowsy driver trigger instant call alert to the supervisor for immediate action to be taken. 
 
 SOS Button - This is present on the driver’s app triggers an alert to the supervisor with the current location of the truck.
